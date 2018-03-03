@@ -1,0 +1,5 @@
+logging:
+  level:
+    com.ashu: debug
+server:
+  port: 0 # allows spring boot to use random port
